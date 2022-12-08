@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry poiny
- * returns 0
- * a printf program
+ * Return: always returns 0
  */
 int main(void)
 {
