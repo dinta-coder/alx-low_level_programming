@@ -6,7 +6,7 @@
 
 int main(void)
 {
-	char alphatbets[26] = "zyxwvutsrqponmlkjihgfedcba";
+	char alphabets[26] = "zyxwvutsrqponmlkjihgfedcba";
 	int i;
 
 	for (i = 0; i < 26; i++)
@@ -16,4 +16,5 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
 
