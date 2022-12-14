@@ -13,16 +13,16 @@ int main(void)
 		{
 			if (b > a)
 			{
-				putchar(a);
-				putchar(b);
+				_putchar(a);
+				_putchar(b);
 				if (a != 56 || b != 57)
 				{
-					putchar(',');
-					putchar(' ');
+					_putchar(',');
+					_putchar(' ');
 				}
 			}
 		}
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
