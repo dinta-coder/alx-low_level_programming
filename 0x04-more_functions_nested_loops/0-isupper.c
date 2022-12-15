@@ -4,7 +4,7 @@
 /**
  * _isupper - Check if paramter c represents an uppercase letter.
  * @c: Int representing a character
- * Return: Always 0.
+ * Return: returns either 0 or 1
  */
 int _isupper(int c)
 {
