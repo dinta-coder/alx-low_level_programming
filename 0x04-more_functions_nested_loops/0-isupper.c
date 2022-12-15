@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *_isupper - This function differenciates
- * @c:returns 1 if isupper
- * Return: either 1 or 0
+ * _isupper - checks if parameter is an uppercase character.
+ * @c: input character.
+ * Return: 1 if is an uppercase character, 0 in other case.
  */
 
 int _isupper(int c)
